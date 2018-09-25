@@ -3,4 +3,4 @@ Untracked -> Funcionalidade que ainda não foi adicionada a um pacote de mudanç
 Tracked -> Funcionalidade que foi adicionada ao projeto (Commitada).
 
 git status -> ciclo de estado dos meus arquivos
-git add ->mostra para o git quais arquivos ele deve verificar 
+git add ->mostra para o git quais arquivos ele deve verificar
